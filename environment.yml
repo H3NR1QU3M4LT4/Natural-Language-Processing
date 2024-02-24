@@ -1,4 +1,4 @@
-name: natural-language-processing
+name: Natural-Language-Processing
 channels:
   - defaults
 dependencies:
